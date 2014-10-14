@@ -35,6 +35,7 @@
     <distributionManagement>
         <repository>
             <id>bintray</id>
+            <name>netopyr-coffee4java-coffee4java</name>
             <url>https://api.bintray.com/maven/netopyr/coffee4java/coffee4java</url>
         </repository>
     </distributionManagement>
