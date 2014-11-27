@@ -24,6 +24,14 @@
         <bintray.package>coffee4java</bintray.package>
     </properties>
 
+    <developers>
+        <developer>
+            <name>Michael Heinrichs</name>
+            <email>coffee4java@netopyr.com</email>
+            <url>http://netopyr.github.io/coffee4java/</url>
+        </developer>
+    </developers>
+
     <scm>
         <connection>scm:git:https://github.com/netopyr/coffee4java.git</connection>
         <developerConnection>scm:git:git@github.com:netopyr/coffee4java.git</developerConnection>
